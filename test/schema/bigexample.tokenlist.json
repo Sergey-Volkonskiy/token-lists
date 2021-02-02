@@ -1,5 +1,5 @@
 {
-  "name": "Example List",
+  "name": "My Token List",
   "timestamp": "2020-06-15T12:00:00+00:00",
   "version": {
     "major": 1,
@@ -7,8 +7,8 @@
     "patch": 0
   },
   "keywords": [
-    "uniswap",
-    "default",
+    "my",
+    "token",
     "list"
   ],
   "tokens": [
@@ -857,6 +857,20 @@
       "chainId": 42,
       "name": "Dai Stablecoin",
       "symbol": "DAI",
+      "decimals": 18
+    },
+    {
+      "address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+      "chainId": 1,
+      "name": "Bao Finance",
+      "symbol": "BAO",
+      "decimals": 18
+    },
+    {
+      "address": "0xbf494f02ee3fde1f20bee6242bce2d1ed0c15e47",
+      "chainId": 1,
+      "name": "World Token",
+      "symbol": "WORLD",
       "decimals": 18
     },
     {
